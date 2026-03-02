@@ -1,0 +1,501 @@
+Employee_ID,Employee_Name,Department,Job_Title,City,Hire_Date,Salary,Performance_Score,Employment_Status
+Emp1000,John,finance , officer,Kano,02-04-2025,470955,,FULL-TIME
+Emp1001,Fatima,Marketing,Supervisor,Kano,2025-03-15,604349,2,Contract 
+Emp1002,John,Logistics,Manager,Lagos ,07/01/2025,₦621588,Four,Contract 
+Emp1003,DAVID ,Admin ,Supervisor,Kano,2022-03-22,₦200574,,Contract 
+EMP1004, Ada,Admin ,Clerk ,Enugu,20/02/2023,₦219891,,contract
+Emp1005,Fatima,finance ,Manager,Port Harcourt ,22/06/2023,,,contract
+EMP1006,John,finance , officer,Enugu,2021-02-21,231307,Four,Contract 
+EMP1007,DAVID , sales,Supervisor,abuja,02/06/2025,,,part-time
+ emp1008 ,grace,Operations,Supervisor,abuja,07-28-2024,669249,Four,Full-Time
+ emp1009 ,blessing, sales, analyst,abuja,2021-03-17,₦731372,Four,part-time
+ emp1010 ,Ifeanyi ,HR,Director,Port Harcourt ,03/04/2024,,,Full-Time
+EMP1011,mary,Admin ,Director,Port Harcourt ,2025-06-25,₦123706,,Full-Time
+EMP1012,blessing,Admin ,Clerk ,ibadan,2025-01-12,605168,,FULL-TIME
+ emp1013 ,mary,Admin ,Clerk ,Enugu,07-10-2025,₦629944,5,contract
+ emp1014 ,blessing,HR,Manager,Lagos ,2021-03-08,,,FULL-TIME
+EMP1015,grace,Operations,Manager,Kano,2023-05-15,₦373238,Four,Full-Time
+Emp1016,blessing, sales,Director,ibadan,13/03/2025,₦796008,,part-time
+EMP1017,John,Marketing,Clerk ,Kano,2022-05-14,,,FULL-TIME
+EMP1018,mary,Admin , analyst,abuja,25/12/2022,,,Full-Time
+ emp1019 ,mary,IT,Manager,Lagos ,18/07/2022,487569,,FULL-TIME
+ emp1020 ,DAVID ,Admin ,Supervisor,Enugu,29/03/2023,,Four,part-time
+Emp1021,grace,IT,Clerk ,ibadan,2023-02-24,,,FULL-TIME
+EMP1022,Ifeanyi ,Admin , analyst,abuja,03/08/2021,,,FULL-TIME
+EMP1023,DAVID ,Marketing, officer,Lagos ,2025-05-11,716402,,contract
+Emp1024,grace, sales,Director,Kano,02-01-2022,651343,,contract
+ emp1025 ,blessing,finance ,Director,Enugu,05-10-2023,₦326537,,Contract 
+Emp1026,DAVID ,Marketing,Manager,abuja,01-16-2023,,Four,FULL-TIME
+ emp1027 ,Ifeanyi ,Marketing,Director,Port Harcourt ,2025-03-20,,Four,Full-Time
+ emp1028 ,Fatima,Admin ,Clerk ,Port Harcourt ,06/03/2023,,,FULL-TIME
+ emp1029 ,DAVID ,HR, analyst,abuja,2023-11-07,₦218780,Four,FULL-TIME
+ emp1030 ,mary,Marketing, analyst,Enugu,30/03/2021,₦762638,1,part-time
+ emp1031 ,mary,finance , officer,Lagos ,02-21-2025,,,contract
+ emp1032 ,blessing,finance ,Director,Port Harcourt ,08-11-2021,,Four,Contract 
+Emp1033,blessing, sales,Director,Port Harcourt ,09/06/2024,,,Contract 
+ emp1034 ,John,Marketing, analyst,Kano,2022-08-04,₦491653,Four,part-time
+Emp1035,grace,HR,Supervisor,ibadan,2022-01-31,₦393665,Four,part-time
+ emp1036 ,DAVID ,Operations,Director,Port Harcourt ,12-20-2023,,5,contract
+EMP1037,grace,HR,Supervisor,Lagos ,2025-07-09,₦387173,,Contract 
+Emp1038, Ada,HR, analyst,Lagos ,2024-09-16,,Four,contract
+ emp1039 ,John,Logistics,Supervisor,Lagos ,2022-05-03,,,part-time
+EMP1040,PETER ,IT,Clerk ,ibadan,27/05/2024,418090,,contract
+ emp1041 ,John,Marketing,Supervisor,Port Harcourt ,19/09/2025,634827,,FULL-TIME
+ emp1042 ,blessing,IT,Director,Kano,04/09/2025,,4,part-time
+ emp1043 ,Ifeanyi ,HR, officer,abuja,06/07/2022,₦664849,,Full-Time
+Emp1044,blessing,HR,Supervisor,Port Harcourt ,06-20-2021,,Four,contract
+Emp1045,PETER ,Marketing,Clerk ,Enugu,05-01-2024,,,FULL-TIME
+Emp1046,DAVID ,Admin , analyst,Lagos ,2022-05-15,142955,,Contract 
+Emp1047, Ada,finance ,Supervisor,Enugu,09/10/2025,,,part-time
+Emp1048,blessing,Logistics,Supervisor,abuja,2021-09-24,,Four,contract
+Emp1049,DAVID ,Admin ,Supervisor,ibadan,2024-02-29,,Four,Contract 
+Emp1050,grace,Operations, officer,Kano,02-16-2025,,Four,part-time
+Emp1051,grace,Admin ,Manager,Port Harcourt ,25/04/2023,271083,,Contract 
+EMP1052,Ifeanyi ,finance ,Manager,Port Harcourt ,2023-01-10,,,Full-Time
+Emp1053,mary,Operations,Supervisor,Kano,2022-12-17,₦259971,Four,FULL-TIME
+EMP1054,grace,Admin , officer,Enugu,2024-02-18,₦192036,Four,contract
+Emp1055,Ifeanyi ,HR, analyst,Port Harcourt ,08-19-2022,,,part-time
+EMP1056,PETER ,HR,Director,Port Harcourt ,2024-07-09,552013,,Full-Time
+ emp1057 ,grace,HR,Manager,abuja,06-29-2021,₦117391,,part-time
+ emp1058 ,chinedu,Admin , analyst,ibadan,2021-10-05,,Four,FULL-TIME
+EMP1059,chinedu,Admin ,Supervisor,Lagos ,01-25-2022,,5,Contract 
+EMP1060,John,Marketing,Supervisor,ibadan,09-10-2024,,Four,part-time
+ emp1061 ,Ifeanyi ,finance , analyst,Lagos ,07-07-2024,313987,,contract
+ emp1062 ,blessing,IT,Clerk ,Enugu,2023-06-13,152998,,Full-Time
+EMP1063,mary,Marketing,Supervisor,Port Harcourt ,26/07/2025,188453,,contract
+Emp1064,DAVID ,Admin ,Clerk ,abuja,30/10/2022,₦456318,Four,contract
+Emp1065, Ada,finance ,Manager,ibadan,2025-11-14,,3,Full-Time
+EMP1066,blessing,Logistics, analyst,ibadan,11-17-2024,,,Contract 
+EMP1067, Ada,Logistics,Clerk ,Enugu,2023-09-02,,Four,contract
+EMP1068, Ada,Marketing,Supervisor,Kano,21/11/2025,,Four,Full-Time
+ emp1069 ,DAVID ,Marketing,Clerk ,Enugu,2024-12-13,,Four,FULL-TIME
+EMP1070,blessing,finance ,Clerk ,ibadan,29/03/2022,,1,contract
+ emp1071 ,DAVID , sales,Director,Lagos ,2024-07-10,,Four,contract
+EMP1072,Ifeanyi ,IT, analyst,abuja,20/05/2023,459224,,part-time
+Emp1073,chinedu,Logistics, analyst,Kano,16/08/2022,,5,part-time
+EMP1074,Fatima, sales, analyst,Kano,11/02/2022,,Four,Full-Time
+Emp1075, Ada,IT,Manager,Lagos ,2024-04-14,788443,1,part-time
+Emp1076,John,Admin , officer,abuja,25/04/2021,,Four,Contract 
+EMP1077,Ifeanyi ,IT,Supervisor,Enugu,2021-09-17,203269,,FULL-TIME
+ emp1078 ,blessing,IT,Supervisor,Lagos ,10-29-2023,,Four,part-time
+ emp1079 ,blessing,Logistics, analyst,Lagos ,23/02/2024,₦328558,Four,Contract 
+ emp1080 ,John,IT,Manager,Lagos ,09-10-2025,,Four,part-time
+Emp1081,DAVID ,Admin ,Clerk ,Kano,21/11/2023,435607,,contract
+EMP1082, Ada,Marketing,Clerk ,Lagos ,06-24-2023,175943,,contract
+ emp1083 ,grace,HR,Manager,abuja,11-15-2024,,,Full-Time
+Emp1084,PETER ,Marketing,Clerk ,abuja,03-05-2022,,,FULL-TIME
+ emp1085 ,DAVID ,Logistics, officer,ibadan,07/10/2022,,Four,FULL-TIME
+ emp1086 ,DAVID ,IT,Manager,abuja,2025-04-13,,,part-time
+EMP1087,DAVID , sales,Manager,Lagos ,05-09-2022,,5,Full-Time
+Emp1088,DAVID ,Logistics, analyst,Kano,27/07/2022,193938,5,Contract 
+EMP1089,DAVID ,Operations, analyst,Lagos ,17/01/2023,,Four,part-time
+EMP1090,grace, sales,Manager,Kano,2023-04-12,,,part-time
+ emp1091 ,Ifeanyi ,Admin , analyst,Lagos ,07-27-2021,,5,Contract 
+Emp1092,John,Marketing, analyst,Lagos ,13/02/2026,574529,Four,contract
+ emp1093 ,John,Logistics,Manager,Enugu,2021-09-23,,1,Contract 
+Emp1094,Fatima,Admin , officer,abuja,10-21-2021,₦581445,,Full-Time
+Emp1095, Ada,Admin , analyst,Lagos ,03-20-2021,,Four,FULL-TIME
+ emp1096 ,Ifeanyi ,Admin , analyst,Port Harcourt ,17/06/2022,242690,5,contract
+Emp1097,mary,Logistics,Supervisor,Enugu,2023-12-13,,2,FULL-TIME
+EMP1098,mary,Marketing,Director,abuja,2024-09-09,224866,,FULL-TIME
+EMP1099,John,Marketing, officer,Lagos ,07/01/2023,172717,,FULL-TIME
+ emp1100 ,DAVID ,HR,Supervisor,Port Harcourt ,2021-03-07,703583,2,FULL-TIME
+EMP1101, Ada,Logistics,Director,Enugu,2022-09-11,,,Full-Time
+Emp1102,PETER ,Marketing,Manager,abuja,04/12/2025,,Four,FULL-TIME
+EMP1103,mary,Operations,Clerk ,ibadan,09-03-2021,₦104643,2,contract
+EMP1104,mary,IT, officer,Port Harcourt ,07-03-2022,₦90773,2,FULL-TIME
+Emp1105, Ada, sales,Supervisor,Port Harcourt ,08-30-2025,,4,contract
+Emp1106,chinedu,HR,Manager,Port Harcourt ,08-03-2021,₦328542,Four,FULL-TIME
+Emp1107,mary,Logistics,Clerk ,Port Harcourt ,03/03/2023,₦761769,2,contract
+Emp1108,chinedu,finance ,Director,abuja,22/07/2024,₦154281,Four,FULL-TIME
+ emp1109 ,PETER ,Logistics, officer,abuja,2021-08-08,553661,,part-time
+ emp1110 ,chinedu,HR,Director,Enugu,05-28-2024,,,part-time
+ emp1111 , Ada,finance , officer,Lagos ,03-26-2023,₦721301,2,contract
+ emp1112 ,DAVID , sales,Manager,abuja,2021-03-11,₦579511,,Full-Time
+ emp1113 , Ada,Admin ,Supervisor,Port Harcourt ,10-06-2023,₦410555,,Full-Time
+ emp1114 ,grace,Operations, analyst,Kano,10-29-2024,,Four,part-time
+ emp1115 ,PETER ,HR, officer,ibadan,03/07/2023,,Four,contract
+Emp1116,grace,Operations,Clerk ,Lagos ,05/11/2022,347802,3,part-time
+EMP1117,John,Logistics, officer,Enugu,10/11/2025,567065,,part-time
+EMP1118,chinedu,Marketing,Director,Lagos ,20/02/2023,131590,Four,Full-Time
+ emp1119 ,chinedu,HR,Director,Enugu,2023-06-29,433364,Four,part-time
+Emp1120,grace,Operations,Director,ibadan,07-14-2025,303907,3,Full-Time
+EMP1121,blessing,IT,Clerk ,ibadan,10-15-2025,₦187885,1,Contract 
+ emp1122 ,Ifeanyi , sales,Manager,Kano,04-13-2025,,,Contract 
+EMP1123,blessing,Operations,Clerk ,Kano,24/01/2026,₦218401,,Full-Time
+Emp1124,DAVID ,Operations,Director,ibadan,2022-07-05,,Four,Contract 
+Emp1125,grace,Logistics,Supervisor,Kano,05/06/2024,₦553392,Four,part-time
+EMP1126,PETER ,HR, officer,ibadan,03-28-2025,657114,,FULL-TIME
+Emp1127,mary,IT,Clerk ,Kano,2024-08-09,,,part-time
+Emp1128,grace,Operations,Director,Lagos ,16/05/2021,,Four,Contract 
+Emp1129,John,finance ,Supervisor,Port Harcourt ,01-06-2025,499136,Four,FULL-TIME
+Emp1130,DAVID ,Operations,Supervisor,abuja,12/10/2024,,3,Contract 
+EMP1131,John,IT, officer,Lagos ,07-01-2025,,1,Full-Time
+ emp1132 ,DAVID ,IT,Supervisor,ibadan,2024-05-16,,Four,contract
+EMP1133,grace,HR, officer,abuja,27/12/2024,,Four,FULL-TIME
+ emp1134 ,DAVID ,IT,Supervisor,Port Harcourt ,04-24-2025,,,Contract 
+Emp1135,Fatima,finance , analyst,Port Harcourt ,13/01/2026,₦373404,Four,part-time
+EMP1136,PETER ,Marketing, officer,Enugu,06-12-2022,₦691807,Four,part-time
+Emp1137, Ada,HR,Director,abuja,2023-08-20,₦265601,1,Contract 
+ emp1138 ,Fatima,Admin ,Director,Lagos ,04-24-2023,,Four,part-time
+ emp1139 , Ada,HR, officer,abuja,05-20-2022,706946,5,FULL-TIME
+Emp1140,blessing,Marketing,Supervisor,ibadan,14/02/2026,,Four,FULL-TIME
+ emp1141 ,DAVID ,HR,Director,abuja,04-22-2022,,,Full-Time
+EMP1142, Ada,Admin ,Supervisor,Port Harcourt ,2023-08-11,,Four,Contract 
+EMP1143,DAVID ,IT,Clerk ,Kano,13/04/2024,₦159933,,part-time
+Emp1144,chinedu,HR,Manager,abuja,2021-12-31,,,Contract 
+EMP1145,John,HR,Supervisor,Lagos ,04-19-2022,,4,Full-Time
+Emp1146,DAVID ,Marketing,Supervisor,Kano,10-08-2023,,Four,contract
+EMP1147,Ifeanyi ,Operations,Director,abuja,01-01-2022,,Four,part-time
+Emp1148,DAVID ,Operations, analyst,abuja,2021-04-14,,,FULL-TIME
+Emp1149,DAVID ,Logistics,Manager,Port Harcourt ,2022-09-01,506620,Four,contract
+ emp1150 ,Fatima,Logistics, analyst,Lagos ,28/10/2022,,3,FULL-TIME
+Emp1151, Ada,Admin , analyst,Port Harcourt ,2022-02-20,,2,contract
+EMP1152,Fatima,Logistics,Clerk ,Enugu,2022-09-09,₦766673,Four,FULL-TIME
+EMP1153,John,Marketing, officer,abuja,2023-09-27,,Four,Full-Time
+EMP1154,grace,Operations,Clerk ,Port Harcourt ,30/10/2022,,Four,part-time
+Emp1155,mary,Operations,Manager,ibadan,17/09/2021,503251,1,Contract 
+EMP1156,Fatima,Admin ,Director,ibadan,05-05-2025,267129,Four,Contract 
+Emp1157,blessing,Admin ,Supervisor,Lagos ,14/02/2023,,,contract
+ emp1158 , Ada,HR, officer,Kano,04-15-2025,130628,5,FULL-TIME
+ emp1159 ,PETER ,Marketing,Manager,abuja,18/06/2024,250634,3,contract
+EMP1160,grace,Operations,Director,abuja,2022-02-15,301217,,FULL-TIME
+Emp1161,John,Operations, analyst,ibadan,2025-03-23,₦404652,,Contract 
+ emp1162 ,chinedu,Marketing, analyst,abuja,07-10-2025,,Four,FULL-TIME
+Emp1163,Ifeanyi ,HR, analyst,ibadan,12/11/2024,,Four,contract
+EMP1164, Ada, sales,Manager,abuja,2021-03-31,,Four,Full-Time
+EMP1165,grace,Logistics, analyst,Port Harcourt ,01/12/2021,,,contract
+Emp1166,John,HR, analyst,Kano,03/06/2023,₦599457,,Full-Time
+Emp1167,John,Admin ,Manager,Lagos ,08-18-2024,243283,Four,Full-Time
+EMP1168,PETER ,Operations,Director,Enugu,22/10/2024,₦715726,,part-time
+EMP1169,John,finance ,Director,Lagos ,09-06-2025,,,Contract 
+ emp1170 , Ada,HR,Director,ibadan,24/01/2023,618505,2,FULL-TIME
+Emp1171,John,HR,Supervisor,Kano,05-03-2021,532276,Four,FULL-TIME
+EMP1172,blessing,Admin ,Manager,Port Harcourt ,26/05/2025,,Four,Contract 
+Emp1173,grace,Logistics,Manager,Lagos ,2023-04-04,,3,Full-Time
+Emp1174,blessing,Operations,Clerk ,abuja,25/05/2023,645709,Four,Contract 
+ emp1175 ,DAVID ,IT,Manager,Enugu,04-14-2023,364856,,part-time
+ emp1176 , Ada,finance ,Supervisor,ibadan,13/04/2024,₦683813,,part-time
+EMP1177, Ada, sales,Manager,Lagos ,2023-12-21,495256,Four,Full-Time
+EMP1178,chinedu,Admin ,Manager,Port Harcourt ,27/12/2021,,4,Full-Time
+Emp1179,chinedu,IT,Supervisor,abuja,2025-09-24,,,FULL-TIME
+Emp1180,blessing,Admin ,Supervisor,abuja,2022-10-28,,1,Full-Time
+Emp1181, Ada,Marketing,Clerk ,abuja,10/07/2025,308456,Four,part-time
+Emp1182,Fatima,Logistics,Supervisor,Port Harcourt ,2022-07-26,,,FULL-TIME
+EMP1183,mary,Marketing, officer,Enugu,12/10/2021,677554,Four,Contract 
+ emp1184 ,chinedu,Marketing,Manager,Lagos ,2024-12-11,,,contract
+Emp1185,John, sales,Director,Enugu,2025-01-04,,,Full-Time
+Emp1186,DAVID ,HR, officer,Port Harcourt ,2022-06-25,527649,,Full-Time
+Emp1187,mary,IT, officer,Enugu,27/07/2021,₦405320,,part-time
+EMP1188,Ifeanyi , sales, officer,ibadan,08-23-2022,227829,,part-time
+Emp1189,John,IT,Clerk ,abuja,2025-12-23,₦610150,3,Contract 
+ emp1190 ,Fatima,Marketing,Director,Enugu,08-02-2021,,Four,part-time
+Emp1191, Ada, sales,Manager,Port Harcourt ,2025-12-01,,,FULL-TIME
+EMP1192,Ifeanyi , sales,Supervisor,Lagos ,06-05-2021,192796,Four,contract
+EMP1193,chinedu, sales,Clerk ,Port Harcourt ,21/07/2022,,,Contract 
+EMP1194,blessing,IT,Director,Enugu,2025-01-10,,,FULL-TIME
+ emp1195 ,John,finance ,Clerk ,ibadan,04/04/2024,,2,Contract 
+Emp1196,Ifeanyi ,Operations, analyst,Port Harcourt ,2025-01-27,,Four,part-time
+Emp1197,John, sales, officer,Lagos ,2023-03-14,₦156168,5,Full-Time
+Emp1198,DAVID ,Logistics,Manager,ibadan,01-16-2024,,Four,part-time
+ emp1199 ,mary, sales, analyst,Kano,02-01-2026,168575,4,Full-Time
+ emp1200 ,DAVID ,Marketing, officer,Lagos ,28/12/2022,,Four,Full-Time
+Emp1201,PETER ,IT,Supervisor,Enugu,30/07/2022,₦295734,,FULL-TIME
+ emp1202 ,Fatima,HR,Director,ibadan,2024-04-19,₦234826,,Contract 
+Emp1203, Ada, sales, officer,Port Harcourt ,2026-02-05,,Four,contract
+ emp1204 , Ada, sales,Manager,Lagos ,14/12/2024,,,part-time
+EMP1205,PETER ,Admin ,Manager,Enugu,2023-08-31,,1,Contract 
+Emp1206,chinedu,Admin , analyst,Port Harcourt ,07-27-2022,,Four,Contract 
+Emp1207,DAVID ,Admin , officer,ibadan,2025-05-11,,4,Contract 
+ emp1208 ,John,Operations, analyst,abuja,11-30-2021,₦519553,3,contract
+ emp1209 ,PETER , sales,Director,ibadan,2023-10-23,417198,,part-time
+Emp1210,Ifeanyi ,Logistics,Clerk ,Port Harcourt ,2024-05-15,₦355286,2,contract
+Emp1211,blessing,IT,Director,Port Harcourt ,02-21-2021,386363,Four,contract
+EMP1212, Ada,IT,Manager,abuja,01-22-2026,₦654080,,FULL-TIME
+Emp1213,chinedu,HR, analyst,Port Harcourt ,08-30-2025,₦377259,,Full-Time
+ emp1214 ,chinedu, sales, analyst,Enugu,02/05/2025,,Four,contract
+EMP1215,Ifeanyi ,finance , officer,Port Harcourt ,16/01/2024,359562,,contract
+ emp1216 ,Ifeanyi ,HR, analyst,Enugu,2021-05-17,,,part-time
+EMP1217,grace,IT,Clerk ,Kano,04-23-2024,,4,contract
+Emp1218,DAVID , sales,Supervisor,ibadan,16/02/2024,118425,Four,part-time
+Emp1219,grace,Operations,Supervisor,Enugu,09-10-2024,,,Contract 
+ emp1220 ,grace,Marketing, officer,Kano,2024-02-06,781651,,contract
+ emp1221 ,grace,Operations,Director,Kano,2023-06-23,,,FULL-TIME
+ emp1222 ,blessing,Marketing, analyst,ibadan,2021-04-07,,,contract
+ emp1223 ,Fatima,Logistics,Clerk ,Enugu,02/02/2025,,Four,part-time
+EMP1224,chinedu, sales, officer,Kano,2024-10-25,₦741954,,FULL-TIME
+Emp1225,PETER , sales,Manager,Lagos ,19/05/2024,₦309749,Four,FULL-TIME
+ emp1226 ,mary,Operations,Supervisor,Port Harcourt ,2021-10-02,,Four,contract
+Emp1227,chinedu, sales,Manager,Port Harcourt ,01-06-2024,,,Full-Time
+ emp1228 ,PETER ,Admin , officer,Kano,01-12-2023,₦281499,,part-time
+Emp1229,mary,Operations,Clerk ,Kano,2022-01-03,₦169424,,contract
+ emp1230 ,chinedu,finance ,Clerk ,Kano,07-31-2021,₦475277,5,Contract 
+ emp1231 ,grace, sales, analyst,Kano,04/09/2021,145218,,contract
+ emp1232 ,mary,Operations,Clerk ,abuja,21/08/2023,₦120786,Four,Contract 
+EMP1233,Fatima, sales, analyst,Enugu,28/06/2021,,Four,FULL-TIME
+ emp1234 ,mary,Admin ,Clerk ,Enugu,28/08/2024,129163,,Full-Time
+Emp1235,chinedu, sales, officer,Kano,2025-09-15,₦478634,,Contract 
+Emp1236,blessing,Operations,Manager,Port Harcourt ,03-17-2023,682192,,FULL-TIME
+EMP1237,John,Marketing,Clerk ,Enugu,12-05-2023,,,contract
+ emp1238 , Ada,Marketing,Director,Port Harcourt ,03/02/2026,₦730897,,Full-Time
+Emp1239,Fatima,Marketing, analyst,abuja,2022-06-05,444682,,part-time
+ emp1240 ,DAVID ,Marketing,Clerk ,Lagos ,2023-05-08,,Four,Full-Time
+ emp1241 , Ada,IT,Manager,Enugu,14/08/2022,₦174682,Four,Full-Time
+Emp1242,mary,IT,Director,abuja,2023-02-03,₦239858,2,FULL-TIME
+Emp1243,Fatima,Marketing,Director,ibadan,05-27-2025,,,Full-Time
+EMP1244,John,IT,Director,Lagos ,05-29-2024,,,contract
+EMP1245,Fatima,finance ,Manager,ibadan,07-09-2022,573360,Four,contract
+Emp1246,Ifeanyi ,Operations,Director,Kano,05-06-2021,664229,Four,contract
+ emp1247 ,mary,Logistics,Manager,Lagos ,05/04/2022,,,part-time
+EMP1248,John,IT, analyst,abuja,12/04/2025,,,contract
+Emp1249,mary, sales,Manager,Enugu,23/05/2021,,,Contract 
+Emp1250,mary, sales, analyst,ibadan,05-26-2021,₦568443,3,Full-Time
+Emp1251,chinedu,Marketing,Director,Kano,09-17-2023,,,Contract 
+EMP1252,mary,Logistics,Manager,abuja,23/03/2023,,Four,FULL-TIME
+Emp1253,blessing,Marketing,Director,abuja,24/04/2025,₦299462,,contract
+ emp1254 , Ada,Marketing,Director,abuja,2024-05-31,,,Contract 
+EMP1255, Ada,IT,Manager,ibadan,2025-01-28,₦648833,Four,Full-Time
+ emp1256 ,PETER ,IT, analyst,Enugu,07-11-2021,,,Contract 
+EMP1257,grace,Admin ,Clerk ,abuja,2023-05-29,₦594797,,contract
+EMP1258,John,HR, officer,Lagos ,08-10-2024,,4,Contract 
+ emp1259 ,Fatima,finance , analyst,Port Harcourt ,06-06-2021,211956,,Contract 
+ emp1260 ,mary,Logistics,Supervisor,Port Harcourt ,2024-06-21,,,Contract 
+Emp1261,blessing,finance , officer,ibadan,13/12/2022,₦784130,,contract
+EMP1262,John,Admin ,Manager,Kano,23/03/2023,,,contract
+ emp1263 ,grace,Logistics,Clerk ,Lagos ,2022-05-27,,,Full-Time
+Emp1264,John,HR,Director,Kano,11-29-2023,,,FULL-TIME
+ emp1265 ,grace,Operations, officer,Port Harcourt ,12/09/2024,,,Full-Time
+EMP1266,Ifeanyi , sales, officer,Lagos ,2023-06-20,,,FULL-TIME
+ emp1267 ,chinedu, sales, officer,ibadan,06-13-2021,,,Contract 
+EMP1268,Ifeanyi ,finance ,Supervisor,Lagos ,2025-10-24,₦150868,,contract
+Emp1269,grace, sales,Manager,abuja,2024-05-03,,,part-time
+Emp1270,Fatima, sales,Clerk ,ibadan,07-18-2023,₦110339,3,FULL-TIME
+ emp1271 ,Fatima, sales,Supervisor,Enugu,2025-10-27,₦505375,5,FULL-TIME
+EMP1272,grace,Admin , analyst,Kano,2023-03-16,,4,contract
+EMP1273,PETER , sales,Supervisor,abuja,25/05/2023,,,Contract 
+EMP1274, Ada,finance , officer,Enugu,2024-11-07,,,part-time
+EMP1275,DAVID ,finance ,Director,Port Harcourt ,08-05-2024,,Four,contract
+EMP1276,chinedu, sales, analyst,Enugu,21/11/2024,393829,,contract
+ emp1277 ,Ifeanyi ,Logistics, analyst,Enugu,2022-11-12,,Four,Contract 
+ emp1278 , Ada,HR,Manager,Lagos ,25/07/2025,,Four,contract
+EMP1279,chinedu,finance , analyst,Port Harcourt ,12/05/2021,294209,,FULL-TIME
+EMP1280,Ifeanyi ,HR,Director,Kano,2023-03-15,₦780394,,Contract 
+ emp1281 ,mary,IT,Manager,ibadan,01/01/2023,,Four,FULL-TIME
+EMP1282, Ada,IT,Director,ibadan,26/02/2022,₦132126,Four,Contract 
+Emp1283,mary,finance , analyst,Port Harcourt ,01-29-2024,,,contract
+EMP1284,blessing, sales,Clerk ,Enugu,11/10/2025,₦658783,Four,Contract 
+ emp1285 ,grace,Admin ,Director,abuja,02-28-2024,,,FULL-TIME
+EMP1286,mary,IT,Director,Port Harcourt ,08/10/2025,530295,4,Full-Time
+EMP1287,Fatima,IT, officer,abuja,24/04/2023,₦114654,Four,contract
+Emp1288,grace,Operations,Supervisor,Kano,2022-07-06,,,FULL-TIME
+Emp1289,John,finance ,Manager,Lagos ,2021-09-17,₦253766,3,Full-Time
+Emp1290,PETER ,finance ,Director,Port Harcourt ,2025-05-02,543990,1,Full-Time
+Emp1291,John,IT, officer,abuja,2022-03-27,₦275891,,contract
+EMP1292,mary, sales,Supervisor,Port Harcourt ,05-27-2025,₦451053,4,FULL-TIME
+EMP1293,Fatima,HR,Director,Lagos ,2023-03-06,,,contract
+EMP1294,DAVID ,Operations,Supervisor,Port Harcourt ,02-28-2021,,Four,Contract 
+EMP1295,PETER ,Admin ,Supervisor,Port Harcourt ,07-06-2021,450467,,FULL-TIME
+Emp1296, Ada,HR,Manager,Port Harcourt ,06-22-2021,,5,contract
+EMP1297,grace,HR,Clerk ,abuja,2021-08-30,,3,contract
+Emp1298,grace,Operations,Supervisor,ibadan,2025-05-02,,,FULL-TIME
+ emp1299 ,Ifeanyi ,Marketing,Supervisor,Port Harcourt ,03-02-2024,,,FULL-TIME
+EMP1300,mary,finance , analyst,Enugu,2023-04-14,,,FULL-TIME
+EMP1301,chinedu,IT, officer,Enugu,2022-04-25,306085,,Full-Time
+EMP1302,Fatima,Marketing, analyst,ibadan,04-17-2023,₦231379,,Full-Time
+ emp1303 ,DAVID ,IT, officer,Port Harcourt ,29/07/2022,480366,Four,part-time
+EMP1304,John,finance ,Manager,Kano,26/06/2024,694406,1,FULL-TIME
+EMP1305,grace,Admin , analyst,abuja,20/07/2022,,,Full-Time
+ emp1306 ,PETER ,finance , officer,abuja,02/11/2023,780556,,Contract 
+Emp1307, Ada,finance ,Manager,ibadan,31/08/2021,₦486677,,Contract 
+EMP1308,grace, sales,Manager,Kano,29/01/2023,597028,Four,Full-Time
+EMP1309,Fatima,finance ,Director,Enugu,11-02-2023,107480,4,Contract 
+ emp1310 , Ada,Marketing, officer,ibadan,2023-08-14,,Four,contract
+EMP1311, Ada,IT,Supervisor,Port Harcourt ,07-10-2023,₦741336,,Full-Time
+EMP1312,John,Logistics, officer,ibadan,2024-09-04,₦331071,4,Contract 
+EMP1313,blessing, sales,Director,abuja,06-13-2024,606400,1,Full-Time
+ emp1314 ,DAVID ,Operations,Supervisor,abuja,28/04/2023,304217,,FULL-TIME
+EMP1315, Ada,finance , officer,Kano,13/04/2022,,Four,Full-Time
+ emp1316 ,mary,IT,Clerk ,ibadan,2022-11-19,,,FULL-TIME
+EMP1317,Ifeanyi ,Admin ,Clerk ,Kano,11-27-2025,,,FULL-TIME
+Emp1318, Ada,Admin , analyst,Lagos ,08-21-2024,231207,,FULL-TIME
+Emp1319,grace,HR, analyst,abuja,2024-05-15,₦613144,,part-time
+Emp1320,mary, sales,Manager,Port Harcourt ,14/04/2021,,Four,part-time
+EMP1321,mary,Logistics,Manager,ibadan,2022-12-21,,Four,Contract 
+EMP1322,DAVID , sales,Supervisor,Kano,07-03-2022,,Four,contract
+ emp1323 ,chinedu,Logistics, analyst,Port Harcourt ,2023-01-16,₦122668,3,part-time
+EMP1324, Ada,Marketing,Director,ibadan,09/07/2025,,,part-time
+ emp1325 ,DAVID ,HR,Director,ibadan,19/11/2025,₦359019,4,Contract 
+EMP1326,mary,Logistics,Manager,ibadan,01-04-2026,₦223384,4,Contract 
+ emp1327 ,PETER ,Marketing,Clerk ,Lagos ,01/03/2024,,Four,Contract 
+ emp1328 ,Fatima,IT,Supervisor,Kano,04-19-2022,282604,2,Full-Time
+EMP1329,grace, sales,Manager,Kano,04-16-2022,,,Contract 
+Emp1330,chinedu,Logistics,Manager,Lagos ,2025-06-29,,Four,FULL-TIME
+Emp1331,grace,Admin ,Clerk ,Kano,08/07/2025,₦687374,,part-time
+EMP1332, Ada, sales, analyst,Lagos ,10-29-2022,509394,,Contract 
+EMP1333,Fatima,Admin ,Director,ibadan,2022-04-14,97986,Four,part-time
+Emp1334,blessing,Marketing,Manager,Port Harcourt ,19/01/2026,435256,5,FULL-TIME
+Emp1335,grace,Logistics, officer,Kano,2025-09-30,,4,Contract 
+EMP1336,PETER ,Marketing,Supervisor,Kano,10-01-2025,412193,Four,part-time
+EMP1337,John,IT, officer,Port Harcourt ,19/02/2022,712796,,Contract 
+ emp1338 ,mary,finance ,Director,Lagos ,13/03/2022,,,Contract 
+EMP1339,mary,HR,Supervisor,Kano,2024-07-27,,,Full-Time
+ emp1340 ,blessing,HR, analyst,Kano,2024-06-24,225672,,contract
+EMP1341,blessing,Logistics,Supervisor,Kano,2024-08-15,,Four,Contract 
+EMP1342,PETER ,Marketing, analyst,abuja,28/02/2022,,5,Full-Time
+ emp1343 ,blessing,Marketing,Clerk ,abuja,26/01/2026,,Four,part-time
+EMP1344,Fatima,IT,Director,ibadan,2025-11-17,,,Contract 
+Emp1345,PETER ,HR, analyst,abuja,04-11-2022,,Four,FULL-TIME
+ emp1346 ,Ifeanyi ,Logistics,Clerk ,Port Harcourt ,2024-06-25,₦506520,4,FULL-TIME
+ emp1347 ,grace,Logistics, officer,Enugu,2023-07-28,₦147015,,part-time
+Emp1348,chinedu,Logistics, officer,Lagos ,06-04-2022,,4,part-time
+Emp1349,PETER ,finance ,Clerk ,ibadan,10/04/2025,,,part-time
+Emp1350,blessing,IT, analyst,Lagos ,2022-09-28,₦613957,5,Full-Time
+Emp1351,chinedu,Marketing, analyst,Lagos ,11-10-2025,,,part-time
+ emp1352 ,grace,Marketing,Director,Kano,12-27-2024,230145,4,Full-Time
+ emp1353 , Ada,Marketing,Director,Kano,2023-10-20,,,FULL-TIME
+Emp1354,mary,Logistics,Supervisor,Lagos ,2024-08-19,₦217154,,contract
+ emp1355 ,PETER ,Operations, officer,Enugu,23/04/2025,,,Full-Time
+Emp1356,Ifeanyi ,HR, officer,Lagos ,09-17-2025,₦374598,,FULL-TIME
+EMP1357,grace,IT,Clerk ,Port Harcourt ,30/10/2025,195225,5,Contract 
+EMP1358,Fatima,finance ,Supervisor,abuja,2022-01-10,₦376964,Four,part-time
+EMP1359,chinedu,Admin , analyst,Port Harcourt ,15/05/2022,,Four,contract
+ emp1360 ,mary,IT,Manager,ibadan,2025-09-19,521996,,part-time
+ emp1361 ,grace,finance , analyst,Kano,2022-03-10,,,Full-Time
+ emp1362 ,Fatima,finance , officer,abuja,2025-11-23,,Four,Full-Time
+ emp1363 ,blessing,Logistics,Director,Port Harcourt ,15/02/2023,,,FULL-TIME
+Emp1364,DAVID ,HR,Clerk ,Lagos ,2022-05-27,₦333130,3,part-time
+EMP1365,Ifeanyi ,IT,Manager,Port Harcourt ,01-12-2024,363409,1,contract
+EMP1366,mary,Operations,Manager,Kano,2023-06-29,,,Full-Time
+EMP1367,chinedu,HR, analyst,abuja,11-30-2022,114077,,part-time
+ emp1368 ,PETER ,Logistics,Clerk ,Port Harcourt ,07-05-2021,638165,Four,FULL-TIME
+ emp1369 ,Ifeanyi ,Logistics,Clerk ,ibadan,30/03/2023,,Four,Contract 
+ emp1370 , Ada,Operations,Manager,ibadan,13/09/2025,₦142710,,part-time
+ emp1371 ,Fatima, sales, officer,Lagos ,10-02-2025,,,FULL-TIME
+ emp1372 ,Ifeanyi ,Admin , officer,Port Harcourt ,27/12/2021,₦694052,,Contract 
+EMP1373,PETER ,Admin , analyst,Lagos ,11-26-2021,,,Full-Time
+Emp1374,grace,Marketing,Director,Port Harcourt ,16/01/2023,,,Full-Time
+ emp1375 ,blessing,HR, analyst,ibadan,2024-12-03,,4,Contract 
+Emp1376,PETER ,Operations, analyst,Lagos ,2022-11-01,,,contract
+Emp1377,grace,Marketing,Clerk ,ibadan,01-03-2025,764104,,Contract 
+Emp1378,mary,Marketing, analyst,ibadan,08/10/2023,₦717647,,contract
+ emp1379 ,Ifeanyi , sales,Director,Enugu,2025-10-19,,Four,FULL-TIME
+Emp1380,John,Marketing,Manager,Lagos ,07-15-2021,₦270062,5,Contract 
+EMP1381, Ada,Marketing,Manager,Port Harcourt ,02/04/2022,₦379082,3,Contract 
+ emp1382 ,mary,IT,Clerk ,Lagos ,07-30-2024,714778,,Contract 
+EMP1383,PETER ,Logistics,Manager,Enugu,14/05/2024,,Four,contract
+EMP1384,PETER ,HR,Supervisor,Enugu,04-03-2021,227372,Four,contract
+ emp1385 ,chinedu,Marketing, officer,Lagos ,2021-11-08,,Four,Contract 
+Emp1386,DAVID ,Marketing,Director,Port Harcourt ,2025-05-21,,Four,Full-Time
+EMP1387, Ada,Admin ,Clerk ,ibadan,19/05/2022,,,Contract 
+Emp1388,Fatima,IT,Director,ibadan,10-28-2021,₦765636,,contract
+ emp1389 , Ada,IT,Clerk ,Lagos ,06-12-2021,691712,3,contract
+Emp1390,PETER ,IT, analyst,Enugu,2021-06-16,765757,4,contract
+Emp1391,DAVID , sales, officer,Port Harcourt ,2024-01-19,108708,Four,Full-Time
+EMP1392, Ada,IT,Supervisor,Kano,08/11/2025,,2,Full-Time
+ emp1393 ,blessing,IT, analyst,ibadan,08-15-2022,₦110101,1,part-time
+ emp1394 ,chinedu,HR,Clerk ,Lagos ,01-14-2024,,Four,part-time
+ emp1395 , Ada, sales, analyst,Port Harcourt ,2024-11-05,609356,5,part-time
+ emp1396 , Ada,HR,Manager,abuja,03-03-2023,₦591714,1,Contract 
+ emp1397 , Ada,IT, officer,Enugu,31/12/2024,,,contract
+ emp1398 ,John, sales,Clerk ,Kano,2024-08-20,₦587503,,contract
+EMP1399, Ada,Logistics, officer,Port Harcourt ,01-23-2025,,,part-time
+Emp1400,Ifeanyi , sales,Supervisor,abuja,22/11/2023,₦410003,Four,Contract 
+EMP1401,chinedu, sales,Clerk ,ibadan,2023-10-07,₦217441,,Contract 
+ emp1402 ,mary, sales,Supervisor,Port Harcourt ,2021-08-13,186586,,Full-Time
+ emp1403 ,mary,Logistics,Director,Lagos ,2025-02-08,408551,,Contract 
+EMP1404,blessing,IT, analyst,Enugu,07/08/2025,709316,Four,Full-Time
+Emp1405,Ifeanyi ,HR,Clerk ,ibadan,02/01/2026,120767,Four,Contract 
+ emp1406 ,mary,Marketing, analyst,Port Harcourt ,15/07/2022,₦328900,4,part-time
+Emp1407,John,IT,Manager,Kano,05-17-2023,,1,FULL-TIME
+EMP1408,DAVID ,Operations,Director,Port Harcourt ,02/09/2023,,,Contract 
+EMP1409,blessing,Marketing, officer,Port Harcourt ,03-31-2022,597841,,Contract 
+ emp1410 ,mary,Admin ,Manager,Lagos ,10-26-2024,,,contract
+ emp1411 ,Fatima,HR,Supervisor,Kano,2024-04-26,,1,FULL-TIME
+EMP1412,PETER ,finance , analyst,Kano,2024-04-18,₦93865,Four,FULL-TIME
+Emp1413,Fatima,Operations,Supervisor,abuja,14/09/2021,₦674466,Four,part-time
+ emp1414 ,mary,IT, analyst,Kano,05/07/2025,,,FULL-TIME
+EMP1415,Fatima,Admin ,Manager,Kano,2022-09-22,422002,,Full-Time
+Emp1416,Ifeanyi ,HR,Manager,Enugu,13/08/2022,738594,Four,contract
+EMP1417,blessing,Logistics,Director,Enugu,2024-04-01,,Four,Contract 
+ emp1418 , Ada, sales, officer,Kano,02-04-2025,394243,,part-time
+EMP1419,DAVID ,Logistics,Director,Enugu,01-08-2024,,3,Contract 
+Emp1420,mary, sales, officer,ibadan,01-29-2024,,,contract
+Emp1421,PETER ,finance , analyst,abuja,05-25-2021,₦482595,,FULL-TIME
+ emp1422 ,Ifeanyi ,IT,Manager,abuja,07/11/2021,₦292944,,contract
+ emp1423 ,chinedu,Logistics,Supervisor,Lagos ,10-09-2022,,,Contract 
+ emp1424 ,Fatima,Operations,Director,Kano,07-16-2022,,,part-time
+EMP1425,grace, sales,Clerk ,Lagos ,07-11-2025,513377,,contract
+Emp1426,Fatima,IT,Manager,abuja,16/06/2021,,Four,part-time
+Emp1427,blessing,Admin ,Director,Port Harcourt ,2022-06-21,415804,,FULL-TIME
+Emp1428,grace,Marketing,Supervisor,Enugu,10-19-2021,₦616595,Four,part-time
+Emp1429,grace,Logistics, analyst,Kano,2023-11-21,,,contract
+Emp1430,DAVID ,Operations,Manager,ibadan,2023-08-09,724353,,part-time
+EMP1431,DAVID ,Admin , officer,Enugu,2023-04-03,268227,,Contract 
+ emp1432 ,DAVID ,finance ,Manager,ibadan,10-24-2021,₦407749,,part-time
+ emp1433 ,DAVID ,Operations, officer,abuja,2022-12-19,,,Full-Time
+ emp1434 ,Ifeanyi ,Logistics,Supervisor,Lagos ,08-06-2024,,Four,contract
+EMP1435,John,Operations,Director,Port Harcourt ,12/04/2025,,Four,FULL-TIME
+ emp1436 ,Fatima,Logistics,Manager,Enugu,2023-07-23,₦760912,,FULL-TIME
+ emp1437 ,PETER ,HR,Clerk ,Kano,2025-06-21,601793,3,contract
+Emp1438,chinedu,Logistics,Clerk ,Lagos ,06-21-2022,,,Contract 
+Emp1439,John,finance ,Clerk ,Lagos ,08-15-2021,₦366971,Four,contract
+ emp1440 ,Ifeanyi ,Marketing, officer,ibadan,2022-05-25,,,part-time
+EMP1441,John, sales,Manager,Kano,2025-07-18,615668,2,FULL-TIME
+ emp1442 , Ada,IT,Director,Kano,2022-07-05,344814,,Full-Time
+EMP1443,PETER ,IT,Manager,Kano,27/12/2023,,,Full-Time
+Emp1444,blessing,Operations,Clerk ,Lagos ,2025-12-08,,,Contract 
+ emp1445 ,John,Admin ,Clerk ,Port Harcourt ,08/04/2023,,2,contract
+Emp1446,grace,Admin ,Supervisor,ibadan,2022-01-20,,Four,Contract 
+ emp1447 ,PETER ,IT, officer,Kano,05-05-2023,₦135537,,contract
+ emp1448 ,chinedu,finance ,Supervisor,Enugu,11-23-2022,391182,5,FULL-TIME
+ emp1449 ,blessing, sales,Director,Lagos ,2024-06-22,,1,contract
+Emp1450, Ada,Admin ,Manager,Kano,2023-11-06,,5,FULL-TIME
+Emp1451,John,Operations,Clerk ,Lagos ,2021-07-11,407116,3,contract
+ emp1452 ,mary,HR, officer,Kano,18/10/2022,630761,,FULL-TIME
+EMP1453,DAVID ,HR, officer,Port Harcourt ,12-23-2021,₦566372,,Contract 
+EMP1454,DAVID ,Admin ,Supervisor,ibadan,2024-10-02,₦379970,,FULL-TIME
+EMP1455,Ifeanyi ,finance , analyst,Port Harcourt ,10-22-2025,402032,Four,part-time
+EMP1456,mary,Logistics,Director,Lagos ,2022-08-21,₦249056,Four,part-time
+Emp1457,Ifeanyi ,finance ,Supervisor,Enugu,2021-06-25,,Four,Full-Time
+ emp1458 , Ada,Marketing,Supervisor,ibadan,2023-05-25,,,contract
+ emp1459 ,John,IT,Clerk ,Enugu,28/12/2021,637902,2,FULL-TIME
+EMP1460,blessing,Logistics,Manager,Kano,10/02/2023,₦367532,,part-time
+EMP1461,Fatima,Marketing,Manager,Lagos ,07/08/2021,,,Full-Time
+ emp1462 ,chinedu,HR,Clerk ,ibadan,11/10/2025,,Four,contract
+EMP1463,chinedu,IT, officer,abuja,05/08/2022,,5,FULL-TIME
+ emp1464 ,PETER ,Operations, analyst,Port Harcourt ,12-15-2024,302900,Four,Full-Time
+EMP1465,DAVID ,Operations, officer,Kano,2021-12-06,₦491096,,Contract 
+EMP1466,Ifeanyi ,finance ,Supervisor,Port Harcourt ,2022-10-29,433576,5,FULL-TIME
+EMP1467,mary,Admin , officer,Port Harcourt ,16/12/2025,,,contract
+Emp1468,grace, sales,Manager,Lagos ,02-06-2022,₦797178,,FULL-TIME
+ emp1469 ,grace, sales, analyst,ibadan,2021-03-29,,Four,Full-Time
+ emp1470 , Ada,HR,Supervisor,Kano,04-06-2021,550543,2,Contract 
+EMP1471,chinedu,Admin ,Director,ibadan,04-20-2021,732242,,Full-Time
+EMP1472,mary, sales,Supervisor,Kano,07-11-2022,₦447570,,Contract 
+EMP1473,Ifeanyi ,HR, analyst,Port Harcourt ,09-29-2024,,,part-time
+ emp1474 , Ada,Logistics, officer,Enugu,2025-04-06,,,contract
+ emp1475 ,mary,Logistics, officer,Port Harcourt ,2024-02-16,,2,FULL-TIME
+EMP1476,PETER ,Admin , analyst,ibadan,12-19-2021,,,Contract 
+ emp1477 ,blessing,Logistics,Supervisor,Port Harcourt ,19/12/2021,₦478771,,contract
+EMP1478,Fatima,finance , officer,Lagos ,2022-11-09,₦391087,,part-time
+ emp1479 ,chinedu,finance ,Supervisor,Port Harcourt ,05-06-2024,,Four,FULL-TIME
+EMP1480,grace,finance ,Manager,ibadan,10-10-2022,,,contract
+Emp1481, Ada, sales,Director,Port Harcourt ,2024-12-12,665117,Four,Full-Time
+ emp1482 ,chinedu, sales,Manager,Lagos ,03-12-2021,,Four,contract
+Emp1483,grace,Logistics,Supervisor,Kano,30/04/2022,,,FULL-TIME
+Emp1484,grace, sales, analyst,Enugu,2023-08-23,,,FULL-TIME
+EMP1485, Ada,IT,Supervisor,Enugu,2025-07-07,,,Full-Time
+EMP1486,grace,finance ,Clerk ,Enugu,01-24-2026,,,Full-Time
+EMP1487,chinedu,Operations, analyst,Kano,2023-10-08,,4,Contract 
+Emp1488, Ada, sales,Supervisor,Enugu,2024-06-20,,,Full-Time
+EMP1489, Ada,finance , officer,ibadan,2023-07-09,₦150043,Four,part-time
+Emp1490,chinedu,HR, officer,abuja,15/06/2022,₦687110,1,FULL-TIME
+ emp1491 ,chinedu,Marketing,Supervisor,ibadan,12-06-2024,,Four,part-time
+ emp1492 ,Ifeanyi ,finance , officer,Enugu,02-24-2024,,,contract
+EMP1493,chinedu,IT,Manager,Port Harcourt ,06-21-2021,,,contract
+ emp1494 ,chinedu,HR,Director,abuja,10-06-2022,,Four,part-time
+ emp1495 ,Ifeanyi ,finance , officer,Enugu,2023-11-02,₦765077,,contract
+ emp1496 ,mary,finance , analyst,abuja,06-19-2023,,,FULL-TIME
+ emp1497 ,DAVID ,IT, analyst,Lagos ,2021-06-13,,Four,FULL-TIME
+Emp1498,chinedu,Admin ,Manager,abuja,03-28-2023,675253,,Contract 
+Emp1499,mary,Admin , officer,Port Harcourt ,2024-08-22,,1,FULL-TIME
